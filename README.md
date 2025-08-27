@@ -35,7 +35,7 @@ The R plotting script produces **line plots with error bars** (± SEM) for MFCC 
 ## Attribution & License
 - The MFCC MATLAB scripts are derived from code by **Kamil Wojcicki (2011)**, distributed under a BSD-style license (see `mfcc/LICENSE.txt`).  
 - `example_MK.mat` is a **modified version** of this original code to allow batch processing of multiple `.wav` files.  
-- The R script `extract_mfcc_feature_vectors.R` was written by **Minah Kim (2020, revised 2021)** to generate statistical summaries and plots from MATLAB outputs.  
+- The R script `extract_mfcc_feature_vectors.R` was written by **Minah Kim** to generate statistical summaries and plots from MATLAB outputs.  
 
-**License:**  
+
 
