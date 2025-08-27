@@ -9,7 +9,8 @@ It combines **MATLAB scripts** (for feature extraction) with an **R script** (fo
 ## Workflow
 1. **Convert audio files to mono**  
    - Use [Audacity](https://www.audacityteam.org/) or batch convert in terminal.  
-   - Save mono files into the `audio/` folder with the format `filename_mono.wav`.  
+   - Create an `audio/` folder in the repository and save mono files there using the format `filename_mono.wav`.  
+   - *(Note: the `audio/` folder is not included in this repository due to file size constraints.)*
 
 2. **Run MATLAB script**  
    - Execute `example_MK.mat` (in the `mfcc/` folder).  
